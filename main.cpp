@@ -6,7 +6,7 @@
 
 #include "fstream";
 
-std::ifstream f("points.txt");
+std::ifstream f("input.txt");
 
 Point p0;
 
